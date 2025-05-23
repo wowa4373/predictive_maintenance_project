@@ -71,7 +71,4 @@
 
 ## Видео-демонстрация
 
-[Ссылка на видео](video/demo.mp4) или встроенное видео ниже:
-
-```html
-<video src="video/demo.mp4" controls width="100%"></video>
+[Ссылка на видео](video/demo.mp4).
