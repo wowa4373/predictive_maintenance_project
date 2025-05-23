@@ -32,7 +32,7 @@
     pip install -r requirements.txt # Установка зависимостей из файла requirements.txt
     ```
 
-    Если у вас нет файла `requirements.txt`, создайте его, выполнив команду в терминале:
+    Если у вас нет файла `requirements.txt`:
 
     ```bash
     pip freeze > requirements.txt
