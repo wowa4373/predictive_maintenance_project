@@ -15,8 +15,8 @@
 1.  **Клонируйте репозиторий:**
 
     ```bash
-    git clone <ссылка на ваш репозиторий>
-    cd <название_папки_с_проектом>
+    git clone https://github.com/wowa4373/predictive_maintenance_project/
+    cd predictive_maintenance_project
     ```
 
 2.  **Установите зависимости:**
