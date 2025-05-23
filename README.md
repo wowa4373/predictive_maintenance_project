@@ -71,7 +71,7 @@
 
 ## Видео-демонстрация
 
-[Ссылка на видео]([video/demo.mp4](https://github.com/wowa4373/predictive_maintenance_project/blob/main/video/demo.mp4)) или встроенное видео ниже:
+[Ссылка на видео]([video/demo.mp4](video/demo.mp4)) или встроенное видео ниже:
 
 ```html
 
